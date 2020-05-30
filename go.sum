@@ -1,0 +1,4 @@
+github.com/danielgatis/go-findfont v1.0.1 h1:OgCyoo8OakOsBBK7+XUpEAQJxEXu1h6Us4wFm+xykSE=
+github.com/danielgatis/go-findfont v1.0.1/go.mod h1:q9XXqsU66wHmkDw0sCvpcZEHQp2AZyDOA4SieOUrnVo=
+github.com/danielgatis/go-ptrloop v1.0.0 h1:KN5JdmnUQk4fut4JdT4U5y/oPpf8dkPhWlJ/yHGdKlA=
+github.com/danielgatis/go-ptrloop v1.0.0/go.mod h1:N31QEYrIGZyIRef9W1ci2wGMY2myDb89oC3wEkTBz6I=
