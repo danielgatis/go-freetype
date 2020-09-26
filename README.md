@@ -1,8 +1,8 @@
+# go-freetype
+
 [![Go Report Card](https://goreportcard.com/badge/github.com/danielgatis/go-freetype?style=flat-square)](https://goreportcard.com/report/github.com/danielgatis/go-freetype)
 [![License MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/danielgatis/go-freetype/master/LICENSE)
 [![Go Doc](https://img.shields.io/badge/godoc-reference-blue.svg?style=flat-square)](https://godoc.org/github.com/danielgatis/go-freetype)
-
-# go-freetype
 
 Go bindings for the FreeType library. Only the high-level API is bound.
 
